@@ -1,6 +1,5 @@
 # Cihicle Real Time Counting using YOLOv8
 
-Developed by Conrad Takashi(https://discord.com/users/382102787649175553)
 <p align="center">
     <img src="result/result.gif" width=800
 </p>
